@@ -1,7 +1,15 @@
 .container-fluid{
-    padding : 2% 10%;
+    padding : 3% 15%;
 }
 
-.side_2{
-    /* padding : 100px 50px 50px 100px; */
+h1{
+    margin-left: 150px;
+}
+.map-1{
+    width:1200px;
+    height:730px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
 }
